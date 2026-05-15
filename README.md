@@ -1,3 +1,18 @@
+<!-- repo-standard:start -->
+# MOCO CLI
+
+CLI tool for interacting with the MOCO project management and time tracking API.
+
+| Area | Stack | Visibility |
+| --- | --- | --- |
+| CLI Tooling | Python | Public |
+
+**Repository:** `JayRHa/moco-cli`  
+**Topics:** `moco`, `cli`, `python`, `time-tracking`, `project-management`
+<!-- repo-standard:end -->
+
+---
+
 <div align="center">
   <h1>MOCO CLI</h1>
   <p><strong>Ein vollstaendiger, skriptbarer CLI-Zugang zur gesamten dokumentierten MOCO API (inkl. Impersonation).</strong></p>
