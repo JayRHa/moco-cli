@@ -20,7 +20,7 @@ Build. Automate. Share.
 
 ## What is this?
 
-This repository provides cLI tool for interacting with the MOCO project management and time tracking API.
+CLI tool for interacting with the MOCO project management and time tracking API.
 
 > Browse the documentation below for setup notes, usage details, and project-specific context.
 
